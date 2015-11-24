@@ -1,0 +1,20 @@
+{
+  "name": "ListaPessoa",
+  "version": "0.0.0",
+  "description": "Aplicação de Exemplo usando AngularJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danilo Miranda Terra",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-route": "^1.4.8",
+    "bootstrap": "^3.3.5",
+    "font-awesome": "^4.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
